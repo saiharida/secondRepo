@@ -1,1 +1,2 @@
 This is some content to mess up with later
+This is just a bug fix.
